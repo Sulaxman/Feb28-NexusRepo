@@ -8,13 +8,6 @@
 	<name>Hello World Web Application Repository</name>
 	<description>Simplest possible Java Webapp</description>
 <!-- https://mvnrepository.com/artifact/org.testng/testng -->
-<dependency>
-    <groupId>org.testng</groupId>
-    <artifactId>testng</artifactId>
-    <version>6.7</version>
-    <scope>test</scope>
-</dependency>
-
 	<build>
 	<distributionManagement>
   <repository>
